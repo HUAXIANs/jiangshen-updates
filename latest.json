@@ -3,12 +3,12 @@
     "product":  "JiangShenHud",
     "version":  "1.1.0",
     "tag":  "v1.1.0",
-    "published_at":  "2026-11-22T14:00:49.9888944Z",
-    "notes":  "v1.1.0：接入独立卡密授权系统(JS-)、全仓隐私痕清扫、全大陆零依赖稳定版。",
+    "published_at":  "2026-11-22T14:04:16.5605847Z",
+    "notes":  "v1.1.0：接入独立卡密授权系统(JS-)、全仓隐私痕清扫、自有域名国内更新直连、全大陆零依赖稳定版。",
     "asset":  "JiangShen-v1.1.0-win32-portable.zip",
-    "size":  224247,
-    "sha256":  "ab12587b2b586f8ca2a4756e3014138eff19bec1a175f62eedb2593e15176160",
+    "size":  224265,
+    "sha256":  "04744e13351529c928367ec084d12c87e9be4ee7e8fa8659dce85a8a7da63d7f",
     "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip",
-    "mirror_url":  "https://ghfast.top/https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip",
+    "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
     "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.1.0"
 }

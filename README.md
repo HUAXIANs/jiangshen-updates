@@ -4,5 +4,5 @@
 
 - 最新版本：**v1.1.0**
 - 便携包直链：[GitHub Releases](https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip)
-- 大陆加速镜像：[ghfast.top 加速下载](https://ghfast.top/https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip)
-- 文件 SHA-256：`ab12587b2b586f8ca2a4756e3014138eff19bec1a175f62eedb2593e15176160`
+- 大陆加速镜像：[ghfast.top 加速下载](https://jiangshen.anqila.xyz/updates/download)
+- 文件 SHA-256：`04744e13351529c928367ec084d12c87e9be4ee7e8fa8659dce85a8a7da63d7f`
