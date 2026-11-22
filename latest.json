@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "1.2.0",
-    "tag":  "v1.2.0",
-    "published_at":  "2026-11-22T14:23:53.6374820Z",
-    "notes":  "v1.2.0：单文件独立版 JiangShen.exe（内嵌引擎桥与朱砂古印图标、点击即用）、彻底移除全部未实装/开发项、自有域名全大陆高速直链下载。",
+    "version":  "1.3.0",
+    "tag":  "v1.3.0",
+    "published_at":  "2026-11-22T15:26:44.0685617Z",
+    "notes":  "v1.3.0：VMProtect 3.10.4 核心虚拟化与反篡改加固版单文件 JiangShen.exe、核心局内载荷云端 AES-256 + RSA-2048 加密按需下发、全接口原子限流与防重放/防多开加固、零旁路零外部依赖。",
     "asset":  "JiangShen.exe",
-    "size":  394240,
-    "sha256":  "14a1b41b50a8fedef1f00c90f5c6c73795c17450256c815dedd36272b81c7f94",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.2.0/JiangShen.exe",
+    "size":  1454080,
+    "sha256":  "53dbe6213859d309652869f33ab65bb7cd709eaefa31f3927e59431e8d5bd2c8",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.3.0/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.2.0"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.3.0"
 }
