@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "1.1.0",
-    "tag":  "v1.1.0",
-    "published_at":  "2026-11-22T14:04:16.5605847Z",
-    "notes":  "v1.1.0：接入独立卡密授权系统(JS-)、全仓隐私痕清扫、自有域名国内更新直连、全大陆零依赖稳定版。",
-    "asset":  "JiangShen-v1.1.0-win32-portable.zip",
-    "size":  224265,
-    "sha256":  "04744e13351529c928367ec084d12c87e9be4ee7e8fa8659dce85a8a7da63d7f",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip",
+    "version":  "1.2.0",
+    "tag":  "v1.2.0",
+    "published_at":  "2026-11-22T14:23:53.6374820Z",
+    "notes":  "v1.2.0：单文件独立版 JiangShen.exe（内嵌引擎桥与朱砂古印图标、点击即用）、彻底移除全部未实装/开发项、自有域名全大陆高速直链下载。",
+    "asset":  "JiangShen.exe",
+    "size":  394240,
+    "sha256":  "14a1b41b50a8fedef1f00c90f5c6c73795c17450256c815dedd36272b81c7f94",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.2.0/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.1.0"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.2.0"
 }

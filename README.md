@@ -1,8 +1,8 @@
 # 僵神 · 峡谷藏珍阁 公开更新镜像
 
-本仓库仅托管面向玩家的最新版便携发布包与 `latest.json` 更新清单。
+本仓库托管面向玩家的最新版单文件独立可执行程序 `JiangShen.exe`（双击即用、无需解压）与 `latest.json` 更新清单。
 
-- 最新版本：**v1.1.0**
-- 便携包直链：[GitHub Releases](https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.1.0/JiangShen-v1.1.0-win32-portable.zip)
-- 大陆加速镜像：[ghfast.top 加速下载](https://jiangshen.anqila.xyz/updates/download)
-- 文件 SHA-256：`04744e13351529c928367ec084d12c87e9be4ee7e8fa8659dce85a8a7da63d7f`
+- 最新版本：**v1.2.0**
+- 全大陆高速直链：[JiangShen.exe（免代理直连）](https://jiangshen.anqila.xyz/updates/download)
+- GitHub 原始直链：[GitHub Releases](https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.2.0/JiangShen.exe)
+- 文件 SHA-256：`14a1b41b50a8fedef1f00c90f5c6c73795c17450256c815dedd36272b81c7f94`
