@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "1.5.0",
-    "tag":  "v1.5.0",
-    "published_at":  "2026-11-23T01:47:16.9783480Z",
-    "notes":  "僵神（JiangShen）v1.5.0 巅峰全自动单文件加固版：\n1. 【零卡顿常驻智驾内核】原生 ac.loop(1.8s) 常驻游戏内核 + 96 字节超轻读数，彻底消除重复编译卡顿与弹射叠爆掉帧。\n2. 【精准防线压线算法】实扫贴脸怪与真实当波怪血/甲，稳杀局硬锁「稳杀」与清晰档位（碾压/达标），彻底杜绝误报危急；智能推进温和补齐至稳杀线即刻停手。\n3. 【清流挂机真人类6大运营】实机核验地图 API：抽卡羁绊构筑与吞噬、技能三选一优选、海克斯三选一、稳杀自动主线/僵尸挑战、单参技能加点与平滑微操。\n4. 【天枢全自动 KK 闭环 + N号多开 + DPAPI加密账号库】Windows 原生中文 OCR（深色大厅反色双通识别，实测 720P/1080P/2K/4K 全精准）+ UIA + F8 悬停校准；支持单号闭环 / 多号轮挂 / Sandboxie-Plus N开并发；自由定制局数、总时长与防425保底时长，WM_CLOSE 优雅退出保障官方存档上传。\n5. 【奇趣秘境11项全实机修护】修复七彩流光、呼吸脉动、360° Z轴航拍、ac.color 染色、0.35s 浮空、装死仰卧起坐、推荐卡权重欧皇与弹幕雨性能封顶，支持一键彻底还原。\n6. 【VMProtect Lite 3.10.4 虚拟化加密单文件】零本地明文载荷、零外置依赖、全大陆直连极速下载。",
+    "version":  "1.6.0",
+    "tag":  "v1.6.0",
+    "published_at":  "2026-11-23T02:35:59.6243392Z",
+    "notes":  "墨玉宣金单文件独立版：双击即用无需解压、全大陆无代理直连、去除全部非实装项、自有域名高速更新。",
     "asset":  "JiangShen.exe",
-    "size":  1521152,
-    "sha256":  "a405b89de8053c2693b8f572259af3a5a4a0a3736ff0e18cb6aecf540d6f33d1",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.5.0/JiangShen.exe",
+    "size":  1568768,
+    "sha256":  "4a7149626a7ae2d315e66e3202d8d03721cf578c6ec7d4aa4ad881a288d9d4ab",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v1.6.0/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.5.0"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v1.6.0"
 }
