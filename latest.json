@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.3.3",
-    "tag":  "v2.3.3",
-    "published_at":  "2026-11-24T02:07:05Z",
-    "notes":  "v2.3.3: 修复KK悬浮房间窗/独立房间窗「开始游戏」与创建房间弹窗全分辨率精准点击，新增进图后自动选难度并点击开始游戏进图闭环，同步发布联机伴侣v2.3.3。",
+    "version":  "2.3.4",
+    "tag":  "v2.3.4",
+    "published_at":  "2026-11-24T02:32:22Z",
+    "notes":  "僵神正式版 v2.3.4：彻底解决进图选难度占位英雄跳过与全分辨率「开始游戏」识别；全面升级万倍宗师智驾（六类弹窗/卡组羁绊秒吞/紫条点击进化/全波次G技能与F抽卡/黑市Lv1-Lv5扫货与免费刷新/真实伤害统计+动态强度平衡主线与僵尸狂潮推进），保持160+ FPS零抽帧；同步更新免卡密联机伴侣 v2.3.4。",
     "asset":  "JiangShen.exe",
     "size":  1733632,
-    "sha256":  "f2c85961cbf9049c0374047d3601f032176d6b328120ecb798f79b6167515471",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.3/JiangShen.exe",
+    "sha256":  "ea3ac444b6ed63f0fe8f04e048112fa552236c0b325f24b12c0e2291f27d5206",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.4/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.3"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.4"
 }
