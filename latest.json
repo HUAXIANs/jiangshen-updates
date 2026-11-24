@@ -1,14 +1,14 @@
 {
-    "schema": 1,
-    "product": "JiangShenHud",
-    "version": "2.3.2",
-    "tag": "v2.3.2",
-    "published_at": "2026-11-24T01:36:43.483515Z",
-    "notes": "僵神正式版 v2.3.2：彻底解决地图详情页「创建房间」误判弹窗与跳过促销商店小图标，打通 720P~4K / 100%~200% 全分辨率建房-进房-开局-英雄进化-通关全收割存档BOSS/挑战-自动退局下一轮完整闭环；免卡密联机同步伴侣 JiangShenSync.exe 同步更新。",
-    "asset": "JiangShen.exe",
-    "size": 1731072,
-    "sha256": "08af7babd31e471cdd72e182fa02e8a0469cc71e4785071e47c2551af8c0d696",
-    "download_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.2/JiangShen.exe",
-    "mirror_url": "https://jiangshen.anqila.xyz/updates/download",
-    "page_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.2"
+    "schema":  1,
+    "product":  "JiangShenHud",
+    "version":  "2.3.3",
+    "tag":  "v2.3.3",
+    "published_at":  "2026-11-24T02:07:05Z",
+    "notes":  "v2.3.3: 修复KK悬浮房间窗/独立房间窗「开始游戏」与创建房间弹窗全分辨率精准点击，新增进图后自动选难度并点击开始游戏进图闭环，同步发布联机伴侣v2.3.3。",
+    "asset":  "JiangShen.exe",
+    "size":  1733632,
+    "sha256":  "f2c85961cbf9049c0374047d3601f032176d6b328120ecb798f79b6167515471",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.3/JiangShen.exe",
+    "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.2"
 }
