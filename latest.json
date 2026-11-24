@@ -1,14 +1,14 @@
 {
     "schema": 1,
     "product": "JiangShenHud",
-    "version": "2.3.1",
-    "tag": "v2.3.1",
-    "published_at": "2026-11-24T01:23:00.093543Z",
-    "notes": "僵神正式版 v2.3.1：彻底根治自动挂机「创建房间识别错误」并打通 720P~4K / 100%~200% 全分辨率缩放闭环；新增零抽帧真人宗师智驾、英雄自动进化与免费重随；新增通关后自动打完全部9大存档BOSS/剩余挑战/海岛秘境/攻打不死族并优雅退局自动开下一轮；免卡密联机同步伴侣 JiangShenSync.exe 同步升级零抽帧。",
+    "version": "2.3.2",
+    "tag": "v2.3.2",
+    "published_at": "2026-11-24T01:36:43.483515Z",
+    "notes": "僵神正式版 v2.3.2：彻底解决地图详情页「创建房间」误判弹窗与跳过促销商店小图标，打通 720P~4K / 100%~200% 全分辨率建房-进房-开局-英雄进化-通关全收割存档BOSS/挑战-自动退局下一轮完整闭环；免卡密联机同步伴侣 JiangShenSync.exe 同步更新。",
     "asset": "JiangShen.exe",
-    "size": 1725440,
-    "sha256": "a0f8aa90b19a1276a8a583034aa5f99f3c0cce3749ca5dca8ed68feda760dc20",
-    "download_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.1/JiangShen.exe",
+    "size": 1731072,
+    "sha256": "08af7babd31e471cdd72e182fa02e8a0469cc71e4785071e47c2551af8c0d696",
+    "download_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.2/JiangShen.exe",
     "mirror_url": "https://jiangshen.anqila.xyz/updates/download",
-    "page_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.1"
+    "page_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.2"
 }
