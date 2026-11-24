@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.3.4",
-    "tag":  "v2.3.4",
-    "published_at":  "2026-11-24T02:32:22Z",
-    "notes":  "僵神正式版 v2.3.4：彻底解决进图选难度占位英雄跳过与全分辨率「开始游戏」识别；全面升级万倍宗师智驾（六类弹窗/卡组羁绊秒吞/紫条点击进化/全波次G技能与F抽卡/黑市Lv1-Lv5扫货与免费刷新/真实伤害统计+动态强度平衡主线与僵尸狂潮推进），保持160+ FPS零抽帧；同步更新免卡密联机伴侣 v2.3.4。",
+    "version":  "2.3.6",
+    "tag":  "v2.3.6",
+    "published_at":  "2026-11-24T07:13:39.7679907Z",
+    "notes":  "僵神 v2.3.6 全面稳定与安全强化版：适配 2026-11-24 最新版《我在峡谷打僵尸》地图；优化联机纯同步防异步体验、多开挂机稳定性与网络波动自愈能力；强化本地账号库自动备份保护、开局自动选难度与通关全收割体验；修复技能/海克斯/卡牌免费重随与黑市刷新问题，优化优雅退局自动存档流程。",
     "asset":  "JiangShen.exe",
-    "size":  1733632,
-    "sha256":  "ea3ac444b6ed63f0fe8f04e048112fa552236c0b325f24b12c0e2291f27d5206",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.4/JiangShen.exe",
+    "size":  1809408,
+    "sha256":  "24841147a4d6a7c0b294838d15f0bb38cec50c242c779f94c02b8e3d6158d31d",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.6/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.4"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.6"
 }
