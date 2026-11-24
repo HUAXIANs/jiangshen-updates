@@ -1,14 +1,14 @@
 {
-    "schema":  1,
-    "product":  "JiangShenHud",
-    "version":  "2.2.1",
-    "tag":  "v2.2.1",
-    "published_at":  "2026-11-23T21:01:22.4473779Z",
-    "notes":  "墨玉宣金单文件独立版 v2.2.1：新增全局多目标作用栏（自己/队友/全员/P1/P2）支持联机双向互操、新增免费联机同步伴侣 JiangShenSync.exe、扩展官方联机快捷同步功能（黑市刷新/扫货等）、全大陆无代理高速直连。",
-    "asset":  "JiangShen.exe",
-    "size":  1701888,
-    "sha256":  "d06ffaad0a9e6a893bab0d727e0f6f2da08e7b8ab1fa5376b56c46e62cffe8a9",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.2.1/JiangShen.exe",
-    "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.2.1"
+    "schema": 1,
+    "product": "JiangShenHud",
+    "version": "2.3.1",
+    "tag": "v2.3.1",
+    "published_at": "2026-11-24T01:23:00.093543Z",
+    "notes": "僵神正式版 v2.3.1：彻底根治自动挂机「创建房间识别错误」并打通 720P~4K / 100%~200% 全分辨率缩放闭环；新增零抽帧真人宗师智驾、英雄自动进化与免费重随；新增通关后自动打完全部9大存档BOSS/剩余挑战/海岛秘境/攻打不死族并优雅退局自动开下一轮；免卡密联机同步伴侣 JiangShenSync.exe 同步升级零抽帧。",
+    "asset": "JiangShen.exe",
+    "size": 1725440,
+    "sha256": "a0f8aa90b19a1276a8a583034aa5f99f3c0cce3749ca5dca8ed68feda760dc20",
+    "download_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.1/JiangShen.exe",
+    "mirror_url": "https://jiangshen.anqila.xyz/updates/download",
+    "page_url": "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.1"
 }
