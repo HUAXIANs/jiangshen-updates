@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.3.6",
-    "tag":  "v2.3.6",
-    "published_at":  "2026-11-24T07:13:39.7679907Z",
-    "notes":  "僵神 v2.3.6 全面稳定与安全强化版：适配 2026-11-24 最新版《我在峡谷打僵尸》地图；优化联机纯同步防异步体验、多开挂机稳定性与网络波动自愈能力；强化本地账号库自动备份保护、开局自动选难度与通关全收割体验；修复技能/海克斯/卡牌免费重随与黑市刷新问题，优化优雅退局自动存档流程。",
+    "version":  "2.3.7",
+    "tag":  "v2.3.7",
+    "published_at":  "2026-11-24T22:41:27.4690906Z",
+    "notes":  "墨玉宣金单文件独立版：双击即用无需解压、全大陆无代理直连、去除全部非实装项、自有域名高速更新。",
     "asset":  "JiangShen.exe",
     "size":  1809408,
-    "sha256":  "24841147a4d6a7c0b294838d15f0bb38cec50c242c779f94c02b8e3d6158d31d",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.6/JiangShen.exe",
+    "sha256":  "aa48200f1ec98898bc355b8a2eef13dd77e5566d3f9ad523a70f2169b8fd377e",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.7/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.6"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.7"
 }
