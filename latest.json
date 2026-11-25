@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.4.1",
-    "tag":  "v2.4.1",
-    "published_at":  "2026-11-25T07:14:55.7978281Z",
-    "notes":  "v2.4.1 稳定与智驾体验更新：修复智驾卡组三选一自动识别并选择最优羁绊方案；修复自动选择难度进图后背景残留选难度界面的问题；修复长时间对局运行及悬浮窗切换导致的异常崩溃问题，提升整局流畅度与稳定性。",
+    "version":  "2.4.2",
+    "tag":  "v2.4.2",
+    "published_at":  "2026-11-25T08:17:35.4462206Z",
+    "notes":  "v2.4.2：新增「无限木原生」心法（第1位纯原生严格按局内真实木材抽卡、第2位无限木原生畅抽羁绊，其余心法完整保持不变）；僵尸狂潮按战局情况智能开启与动态退避；英雄进化严格选择品质最高，出现 UR 级英雄后自动停止进化。",
     "asset":  "JiangShen.exe",
-    "size":  1830912,
-    "sha256":  "027e27b464a100091dfc6f5904e544da8a247ad80c4933a012cfed8265d59039",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.1/JiangShen.exe",
+    "size":  1833984,
+    "sha256":  "28a5115fdf65b9d449b72487d5a762677d5c4d55cda5e291b4af63fdd438e3f7",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.2/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.1"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.2"
 }
