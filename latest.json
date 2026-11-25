@@ -1,15 +1,15 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.4.6",
-    "tag":  "v2.4.6",
-    "published_at":  "2026-11-25T12:11:09.9578928Z",
-    "notes":  "修复进入游戏后点击「秒接管当前对局」偶发提示未检测到进程的问题；修复「无限木原生」心法切换及默认单号闭环未即时生效的问题；完善五大战略心法全周期状态显示并提升智驾整体稳定性。",
+    "version":  "2.4.7",
+    "tag":  "v2.4.7",
+    "published_at":  "2026-11-25T17:07:31.2227872Z",
+    "notes":  "修复多轮挂机进入下一局后悬浮窗半截显示与拖拽响应异常，以及第 2 局起主线挑战与提前挑战偶发遗漏问题，保证连续多局体验稳定如初。",
     "asset":  "JiangShen.exe",
-    "size":  1882624,
-    "sha256":  "e5e027f3e1ab529fc1352735363532d2cc51f0942a5b09f2723305fde6b991f5",
+    "size":  1887232,
+    "sha256":  "8ac57f58082bd825ea8ab2318000f0b501ad1213deb77f9d11c211a8e39a5b0f",
     "vmp_protected":  true,
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.6/JiangShen.exe",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.7/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.6"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.7"
 }
