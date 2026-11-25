@@ -1,14 +1,15 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.4.3",
-    "tag":  "v2.4.3",
-    "published_at":  "2026-11-25T09:24:32.0311181Z",
-    "notes":  "v2.4.3 智驾精准对齐与全分辨率体验升级：\n1. 英雄进化品质保护与刷新决策：当当前英雄品质优于全部候选时，若拥有免费刷新次数则自动刷新 1 次，刷新后出现更高品质则择优选择最高品质，仍无更高品质或无免费刷新次数时直接放弃本次进化，杜绝品质降级；UR 品质英雄继续保持永久锁止。\n2. 难度与多模式完整对齐：支持完整指定任意模式（M1 普通 / M2 进阶 / M3 极限及动态扩展模式）与任意难度层数（支持 6 / N6 / M2-N3 / 进阶3 等格式）；未指定时默认自动选择最高已解锁模式的最难难度。\n3. 全分辨率与 DPI 自适应增强：全面优化 4:3、16:10、16:9、21:9、32:9 带鱼屏及 720p~4K 分辨率与高 DPI 下的大厅识别、弹窗按钮定位、局内选难度/模式页签及悬浮窗布局适配。",
+    "version":  "2.4.4",
+    "tag":  "v2.4.4",
+    "published_at":  "2026-11-25T09:44:25.8111426Z",
+    "notes":  "v2.4.4 全大陆免代理直连与全自动云更新正式版：\n1. 全大陆无代理直连优化：全面适配全国电信/联通/移动/校园网及各类网络环境，自动容错失效系统代理并秒切直连通道，消除连接超时卡顿。\n2. 启动全自动云更新与无缝升级：启动及后台定时自动检测云端新版，发现新版后通过自有全大陆节点自动下载、校验完整性与启动自检，并原地无缝升级重启（对局运行中智能暂缓，绝不打断正在进行的游戏）。\n3. 同步包含 v2.4.3 英雄进化品质保护与 1 次免费刷新放弃、多模式与默认最难选图以及全分辨率/带鱼屏自适应优化。",
     "asset":  "JiangShen.exe",
-    "size":  1838080,
-    "sha256":  "a0b0f5a3abc770f6d15bfcca5974cb63c654d2577fb55cc763520399234ac19f",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.3/JiangShen.exe",
+    "size":  1869824,
+    "sha256":  "974bbf1d1faeb63be3a57c415c330a285a70bb16045b1e5c29f87676a87e55a3",
+    "vmp_protected":  true,
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.4/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.3"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.4"
 }
