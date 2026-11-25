@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.3.9",
-    "tag":  "v2.3.9",
-    "published_at":  "2026-11-25T01:30:39.2126738Z",
-    "notes":  "墨玉宣金单文件独立版：双击即用无需解压、全大陆无代理直连、联机同帧体验与运行稳定性全面优化。",
+    "version":  "2.4.0",
+    "tag":  "v2.4.0",
+    "published_at":  "2026-11-25T04:44:17.3452818Z",
+    "notes":  "墨玉宣金单文件独立版：双击即用无需解压、全大陆无代理直连、去除全部非实装项、自有域名高速更新。",
     "asset":  "JiangShen.exe",
-    "size":  1809408,
-    "sha256":  "cc9fa074e559ac753afcadd03d678ef4b25d9aa2c596e1c88f2d15e5e720f17d",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.3.9/JiangShen.exe",
+    "size":  1829376,
+    "sha256":  "5b6399a4740b09e15b5dd2b76178ed2a023bdfcf833a4c5aeda7f8c529bd366f",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.0/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.3.9"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.0"
 }
