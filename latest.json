@@ -1,15 +1,15 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.4.4",
-    "tag":  "v2.4.4",
-    "published_at":  "2026-11-25T09:44:25.8111426Z",
-    "notes":  "v2.4.4 全大陆免代理直连与全自动云更新正式版：\n1. 全大陆无代理直连优化：全面适配全国电信/联通/移动/校园网及各类网络环境，自动容错失效系统代理并秒切直连通道，消除连接超时卡顿。\n2. 启动全自动云更新与无缝升级：启动及后台定时自动检测云端新版，发现新版后通过自有全大陆节点自动下载、校验完整性与启动自检，并原地无缝升级重启（对局运行中智能暂缓，绝不打断正在进行的游戏）。\n3. 同步包含 v2.4.3 英雄进化品质保护与 1 次免费刷新放弃、多模式与默认最难选图以及全分辨率/带鱼屏自适应优化。",
+    "version":  "2.4.5",
+    "tag":  "v2.4.5",
+    "published_at":  "2026-11-25T10:11:23.2479613Z",
+    "notes":  "修复进入游戏后悬浮窗及迷你腰牌偶发显示半截、DPI/分辨率切换偏移与窗口锁死无法拖拽的问题；优化游内同屏性能与响应流畅度；保留全分辨率智驾与自动云更新体验。",
     "asset":  "JiangShen.exe",
-    "size":  1869824,
-    "sha256":  "974bbf1d1faeb63be3a57c415c330a285a70bb16045b1e5c29f87676a87e55a3",
+    "size":  1889280,
+    "sha256":  "97e3f91b1ba2e3c8756150934672d36f42365657c371523e1c5f93689a6e69b3",
     "vmp_protected":  true,
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.4/JiangShen.exe",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.5/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.4"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.5"
 }
