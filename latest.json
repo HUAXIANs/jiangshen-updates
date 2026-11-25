@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "product":  "JiangShenHud",
-    "version":  "2.4.2",
-    "tag":  "v2.4.2",
-    "published_at":  "2026-11-25T08:17:35.4462206Z",
-    "notes":  "v2.4.2：新增「无限木原生」心法（第1位纯原生严格按局内真实木材抽卡、第2位无限木原生畅抽羁绊，其余心法完整保持不变）；僵尸狂潮按战局情况智能开启与动态退避；英雄进化严格选择品质最高，出现 UR 级英雄后自动停止进化。",
+    "version":  "2.4.3",
+    "tag":  "v2.4.3",
+    "published_at":  "2026-11-25T09:24:32.0311181Z",
+    "notes":  "v2.4.3 智驾精准对齐与全分辨率体验升级：\n1. 英雄进化品质保护与刷新决策：当当前英雄品质优于全部候选时，若拥有免费刷新次数则自动刷新 1 次，刷新后出现更高品质则择优选择最高品质，仍无更高品质或无免费刷新次数时直接放弃本次进化，杜绝品质降级；UR 品质英雄继续保持永久锁止。\n2. 难度与多模式完整对齐：支持完整指定任意模式（M1 普通 / M2 进阶 / M3 极限及动态扩展模式）与任意难度层数（支持 6 / N6 / M2-N3 / 进阶3 等格式）；未指定时默认自动选择最高已解锁模式的最难难度。\n3. 全分辨率与 DPI 自适应增强：全面优化 4:3、16:10、16:9、21:9、32:9 带鱼屏及 720p~4K 分辨率与高 DPI 下的大厅识别、弹窗按钮定位、局内选难度/模式页签及悬浮窗布局适配。",
     "asset":  "JiangShen.exe",
-    "size":  1833984,
-    "sha256":  "28a5115fdf65b9d449b72487d5a762677d5c4d55cda5e291b4af63fdd438e3f7",
-    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.2/JiangShen.exe",
+    "size":  1838080,
+    "sha256":  "a0b0f5a3abc770f6d15bfcca5974cb63c654d2577fb55cc763520399234ac19f",
+    "download_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/download/v2.4.3/JiangShen.exe",
     "mirror_url":  "https://jiangshen.anqila.xyz/updates/download",
-    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.2"
+    "page_url":  "https://github.com/HUAXIANs/jiangshen-updates/releases/tag/v2.4.3"
 }
